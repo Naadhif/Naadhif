@@ -1,20 +1,28 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naadhif&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20%7C%20Information%20Retrieval%20%7C%20Data%20Science&descAlignY=51&descAlign=50&descSize=16" width="100%"/>
+<!-- ░░ HACKER HEADER — Matrix Rain + Glitch ░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=4&section=header" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960EE&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Naadhif+%F0%9F%91%8B;Machine+Learning+Enthusiast+%F0%9F%A4%96;Information+Retrieval+Explorer+%F0%9F%94%8D;Data+Science+%26+AI+Learner+%F0%9F%9A%80;Always+Building%2C+Always+Learning+%E2%9C%A8" alt="Typing SVG" />
-</a>
+```
+██████╗░██╗░░░░░░░██╗  ███╗░░██╗░█████╗░░█████╗░██████╗░██╗░░██╗██╗███████╗
+╚════██╗╚██╗░░██╔╝██║  ████╗░██║██╔══██╗██╔══██╗██╔══██╗██║░░██║██║██╔════╝
+░░███╔═╝░╚████╔╝░░██║  ██╔██╗██║███████║███████║██║░░██║███████║██║█████╗░░
+██╔══╝░░░░╚██╔╝░░░╚═╝  ██║╚████║██╔══██║██╔══██║██║░░██║██╔══██║██║██╔══╝░░
+███████╗░░░██║░░░░██╗  ██║░╚███║██║░░██║██║░░██║██████╔╝██║░░██║██║██║░░░░░
+╚══════╝░░░╚═╝░░░╚═╝  ╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═╝╚═╝░░░░
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=root%40github%3A~%24+whoami;%3E+Naadhif+%2F%2F+ML+%26+Information+Retrieval+Dev;root%40github%3A~%24+ls+.%2Fskills%2F;%3E+python+jupyter+nlp+data-science+ir;root%40github%3A~%24+cat+passion.txt;%3E+Building.+Learning.+Shipping.+%E2%9C%85;root%40github%3A~%24+_" alt="Hacker Typing" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=1&section=header" width="100%"/>
 
 <br/>
 
 <!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=Naadhif&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Naadhif&style=for-the-badge&color=00ff41&labelColor=000000&label=PROFILE+VIEWS" alt="profile views"/>
 &nbsp;
 <a href="https://github.com/Naadhif?tab=followers">
-  <img src="https://img.shields.io/github/followers/Naadhif?style=for-the-badge&color=A960EE&labelColor=1a1a2e&label=Followers" alt="followers"/>
+  <img src="https://img.shields.io/github/followers/Naadhif?style=for-the-badge&color=00ff41&labelColor=000000&label=Followers" alt="followers"/>
 </a>
 
 </div>
@@ -76,13 +84,13 @@ me.say_hi()
 
 ## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Naadhif&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&bg_color=0d1117&title_color=A960EE&icon_color=A960EE&text_color=c9d1d9&ring_color=A960EE" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Naadhif&show_icons=true&theme=chartreuse-dark&border_radius=0&hide_border=false&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00cc33&border_color=00ff41&ring_color=00ff41" height="165" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naadhif&layout=compact&theme=tokyonight&border_radius=15&hide_border=true&bg_color=0d1117&title_color=A960EE&text_color=c9d1d9" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naadhif&layout=compact&theme=chartreuse-dark&border_radius=0&hide_border=false&bg_color=000000&title_color=00ff41&text_color=00cc33&border_color=00ff41" height="165" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naadhif&theme=tokyonight&hide_border=true&background=0d1117&ring=A960EE&fire=FF6B6B&currStreakLabel=A960EE&sideLabels=A960EE&dates=c9d1d9&stroke=A960EE" alt="GitHub Streak" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naadhif&theme=dark&hide_border=false&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00cc33&dates=00cc33&stroke=00ff41&border=00ff41" alt="GitHub Streak" width="49%"/>
 
 </div>
 
@@ -93,7 +101,7 @@ me.say_hi()
 
 ## 🌊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naadhif&theme=tokyo-night&bg_color=0d1117&color=A960EE&line=A960EE&point=FF6B6B&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naadhif&theme=high-contrast&bg_color=000000&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=003300&hide_border=false&border_color=00ff41&custom_title=Activity+%2F%2F+root%40github" width="100%"/>
 
 </div>
 
@@ -104,7 +112,7 @@ me.say_hi()
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Naadhif&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Naadhif&theme=matrix&no-frame=false&no-bg=false&row=1&column=7" width="100%"/>
 
 </div>
 
@@ -184,7 +192,7 @@ me.say_hi()
 <!-- Quote -->
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
 
 </div>
 
@@ -193,8 +201,13 @@ me.say_hi()
 <!-- Footer Wave -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=1" width="100%"/>
 
-<sub>⭐ Crafted with passion & curiosity by <b>Naadhif</b> — where code meets creativity ✨</sub>
+```
+[ EOF ] — root@github:~/Naadhif$ shutdown -h now
+> Connection closed. Thanks for visiting. Stay curious. ✦
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=8" width="100%"/>
 
 </div>
